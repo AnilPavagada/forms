@@ -1,2 +1,2 @@
 # forms
-this is basuc html project
+this is basic html project
